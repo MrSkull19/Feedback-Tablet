@@ -1,6 +1,6 @@
 # Feedback-Tablet
 
-The GUI interface for a feedback table, part of a whole ecosistem complete with a database and a website to show the ratings.
+The GUI interface code for a feedback tablet, the whole project including an independent wifi network, complete with a database and a website to show the ratings. The project involved the use of a Raspberry Pi, MQTT Broker, Flask API, NodeJS, and ReactJS.
 
 
 
